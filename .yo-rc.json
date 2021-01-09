@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "nl.leon.myapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "myApp",
+    "packageName": "nl.leon.myapp",
+    "packageFolder": "nl/leon/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NzgzYmI4YTIxMDU5NTYxY2Q2NmZlMDlhODY1MTgzMGNlNTU0YTRjZjFkZjE4N2ZhMzg1MDkxZDFmOTUzMDE5MGFjOGNkNGFkYjRkNjI5ODg0NzIyMTU2NGY4OGRhM2I0ZmZjN2FhMzg1NmQ3NjllOGYyMmZmZWRhZDBlYjM1YTM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1610217270062,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "nl"],
+    "blueprints": []
+  }
+}
